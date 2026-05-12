@@ -101,8 +101,6 @@ projeto-n8n-2/
 
 **José** — [LinkedIn](https://linkedin.com/in/josevitorr00) · [GitHub](https://github.com/jvrb31)
 
-> Projeto desenvolvido para portfólio de automação com IA.
 
-**José** — [LinkedIn](https://linkedin.com/in/SEU-LINKEDIN) · [GitHub](https://github.com/jvrb31)
 
 > Projeto desenvolvido para portfólio de automação com IA.
